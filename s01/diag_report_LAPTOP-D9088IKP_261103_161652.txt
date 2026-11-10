@@ -1,0 +1,17 @@
+﻿Checking installed software using config\oop.json
+
+Google Chrome found (command: C:\Program Files\Google\Chrome\Application\chrome.exe)
+Git found (command: git)
+
+---------------------------------------------
+Summary:
+Found: 2
+Missing: 0
+
+Overall Status: PASS
+---------------------------------------------
+
+Diagnostics complete.
+---------------------------------------------
+Duration: 0.6 seconds
+===============================================
